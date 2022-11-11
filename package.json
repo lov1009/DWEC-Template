@@ -1,23 +1,23 @@
 {
-  "name": "dwec-u1-holamundo",
+  "name": "Plantilla",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
   "browserslist": ["last 2 years"],
-  "browserslist-alt": ["last 2 years","5%","defaults","not dead"],
+  "browserslist-alt": ["last 2 years",
+    "5%", "defaults", "not dead"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/odgomezlopez/JS-HolaMundo.git"
+    "url": "git+ssh://github.com/lov1009/DWEC-Template.git"
   },
   "author": "Laura Valverde",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/odgomezlopez/JS-HolaMundo/issues"
+  "url": "https://github.com/lov1009/DWEC-Template/issues"
   },
-  "homepage": "https://github.com/odgomezlopez/JS-HolaMundo#readme",
+  "homepage": "https://github.com/lov1009/DWEC-Template#readme",
   "dependencies": {
     "g": "^2.0.1"
   },
